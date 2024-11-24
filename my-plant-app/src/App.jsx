@@ -6,9 +6,13 @@ import PlantList from './components/PlantList'
 
 function App() {
   return (
-    <div className="py-4">
+    <>
+    <div>
+      
       <PlantList />
+      
     </div>
+    </>
   )
 }
 
